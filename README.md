@@ -4,7 +4,7 @@
 
 * [Kubernetes Hands-On - Deploy Microservices to the AWS Cloud](https://www.udemy.com/course/kubernetes-microservices/)
 
-`CURRICULUM`
+`MAIN TOPICS`
 
 - Deploy containers to a Kubenetes Cluster
 - Run Kubernetes in AWS using the Kops management tool
